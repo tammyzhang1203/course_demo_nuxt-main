@@ -1,10 +1,10 @@
 {
-  "_B4q2-rn3.js": {
+  "_ooS6bjCq.js": {
     "resourceType": "script",
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "B4q2-rn3.js",
+    "file": "ooS6bjCq.js",
     "name": "v3",
     "imports": [
       "node_modules/nuxt/dist/app/entry.js"
@@ -15,13 +15,13 @@
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "D-NH5Kei.js",
+    "file": "Au9ZqFQi.js",
     "name": "error-404",
     "src": "node_modules/nuxt/dist/app/components/error-404.vue",
     "isDynamicEntry": true,
     "imports": [
       "node_modules/nuxt/dist/app/entry.js",
-      "_B4q2-rn3.js"
+      "_ooS6bjCq.js"
     ],
     "css": []
   },
@@ -36,13 +36,13 @@
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "DtJoA6Y0.js",
+    "file": "Ux7Gv_xm.js",
     "name": "error-500",
     "src": "node_modules/nuxt/dist/app/components/error-500.vue",
     "isDynamicEntry": true,
     "imports": [
       "node_modules/nuxt/dist/app/entry.js",
-      "_B4q2-rn3.js"
+      "_ooS6bjCq.js"
     ],
     "css": []
   },
@@ -57,7 +57,7 @@
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "DNIptUJ8.js",
+    "file": "CC6K3T1s.js",
     "name": "entry",
     "src": "node_modules/nuxt/dist/app/entry.js",
     "isEntry": true,
@@ -81,7 +81,7 @@
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "COp-KdM_.js",
+    "file": "CDn2Wj5w.js",
     "name": "about-us",
     "src": "pages/about-us.vue",
     "isDynamicEntry": true,
@@ -101,7 +101,7 @@
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "7rTozMs_.js",
+    "file": "DEK91iOi.js",
     "name": "blog",
     "src": "pages/blog.vue",
     "isDynamicEntry": true,
@@ -121,7 +121,7 @@
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "C2rT3rZS.js",
+    "file": "ChxR3Vo7.js",
     "name": "contact-us",
     "src": "pages/contact-us.vue",
     "isDynamicEntry": true,
@@ -141,7 +141,7 @@
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "BJ1jsMqm.js",
+    "file": "CRz36fY3.js",
     "name": "home-labubu",
     "src": "pages/home-labubu.vue",
     "isDynamicEntry": true,
@@ -161,7 +161,7 @@
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "CIsASdic.js",
+    "file": "DPcM5NMW.js",
     "name": "index",
     "src": "pages/index.vue",
     "isDynamicEntry": true,
@@ -181,7 +181,7 @@
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "DB5n9tzw.js",
+    "file": "Czc4RDRu.js",
     "name": "labubu",
     "src": "pages/labubu.vue",
     "isDynamicEntry": true,
@@ -190,8 +190,8 @@
     ],
     "css": []
   },
-  "labubu.D3CRV3yW.css": {
-    "file": "labubu.D3CRV3yW.css",
+  "labubu.5eTbkA-m.css": {
+    "file": "labubu.5eTbkA-m.css",
     "resourceType": "style",
     "prefetch": true,
     "preload": true
@@ -201,7 +201,7 @@
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "KNgsdiyw.js",
+    "file": "BZPR0I-R.js",
     "name": "mokoko",
     "src": "pages/mokoko.vue",
     "isDynamicEntry": true,
@@ -221,7 +221,7 @@
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "CRQiTyjK.js",
+    "file": "Bz8Bp8hW.js",
     "name": "zimomo",
     "src": "pages/zimomo.vue",
     "isDynamicEntry": true,

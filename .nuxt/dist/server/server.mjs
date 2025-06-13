@@ -398,7 +398,7 @@ const _routes = [
     name: "labubu",
     path: "/labubu",
     meta: __nuxt_page_meta$2 || {},
-    component: () => import("./_nuxt/labubu-GBOu4U8v.js")
+    component: () => import("./_nuxt/labubu-CPViwDNm.js")
   },
   {
     name: "mokoko",

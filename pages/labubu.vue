@@ -29,7 +29,7 @@
         <div class="info-section">
           <h3 class="section-title">教育背景</h3>
           <div class="info-content">
-            <p>毕业于LABUBU家族学院，主修可爱学。</p>
+            <p>毕业于LABUBU家族学院</p>
           </div>
         </div>
 
